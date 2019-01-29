@@ -1,4 +1,4 @@
-The poem: "The Rainbow and the Unicorn"
+The poem: "The Rainbow and the Unicorn and Ponies"
 
 Red
 Orange
@@ -10,3 +10,4 @@ Purple
 
 These are the colors of the rainbow
 And the Unicorn
+Pony
